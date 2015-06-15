@@ -8,6 +8,7 @@ R resources for finance and investing (work in progress)
 - portfolioSim
 - RQuantLib
 - [Rmetrics](http://r-forge.r-project.org/projects/rmetrics)
+- [Rblpapi](http://github.com/Rblp/Rblpapi) - access the you-know-who API
 - Find other packages in [CRAN Task View on Empirical Finance](http://cran.r-project.org/web/views/Finance.html)
 
 #Books
