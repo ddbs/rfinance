@@ -47,3 +47,5 @@ R resources for finance and investing (work in progress)
 
 #Other R Resources
 - [Awesome R](https://github.com/qinwf/awesome-R) 
+- [Getting Started in Data Analysis: R](http://libguides.princeton.edu/dss/R)
+
