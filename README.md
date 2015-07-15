@@ -10,6 +10,7 @@ R resources for finance and investing (work in progress)
 - [Rmetrics](http://r-forge.r-project.org/projects/rmetrics)
 - [Rblpapi](http://github.com/Rblp/Rblpapi) - access the you-know-who API
 - Find other packages in [CRAN Task View on Empirical Finance](http://cran.r-project.org/web/views/Finance.html)
+- [List of R packages for backtesting quantitative trading strategies](https://www.linkedin.com/pulse/20141124133216-78438968-list-of-r-package-for-back-testing-quantitative-trading-strategies)
 
 #Books
 - [Analysis of Financial Time Series](http://www.amazon.com/dp/0471690740/)
@@ -48,4 +49,3 @@ R resources for finance and investing (work in progress)
 #Other R Resources
 - [Awesome R](https://github.com/qinwf/awesome-R) 
 - [Getting Started in Data Analysis: R](http://libguides.princeton.edu/dss/R)
-
